@@ -88,11 +88,17 @@ pre {
 
     img.brand {
         width: 225px;
+        margin-bottom: 10px;
     }
 
     ul {
         position: relative;
         margin-top: 15px;
+
+        li {
+            padding-left: 0;
+            margin-bottom: 10px;
+        }
 
         a {
             padding: 7px 10px;
@@ -112,7 +118,7 @@ pre {
 
         li.github {
             position: relative;
-            top: 9px;
+            top: 19px;
 
             a {
                 display: block;
